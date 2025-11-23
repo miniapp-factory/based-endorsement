@@ -1,0 +1,16 @@
+
+# 2025-11-23 15:56:20.293117
++Code the following app
++```
++A prediction market interface with a single question: "Will Bitcoin go up today?". The options should be: Moon (Up) and Doom (Down). Generate a vector style image for "Moon" (a green rocket) and "Doom" (a red bear) and use them as large voting buttons. The user can press a button to cast their vote, which triggers a progress bar animation that fills up to a random percentage over 2 seconds to simulate community sentiment. If the bar fills past 50% on their chosen side, display a "Winning Pick" message to the user, which they can share on their feed with their prediction. The user should be able to switch their vote only before the animation finishes. Place the prediction card on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-23 15:56:20.293480
++Code the following app
++```
++A prediction market interface with a single question: "Will Bitcoin go up today?". The options should be: Moon (Up) and Doom (Down). Generate a vector style image for "Moon" (a green rocket) and "Doom" (a red bear) and use them as large voting buttons. The user can press a button to cast their vote, which triggers a progress bar animation that fills up to a random percentage over 2 seconds to simulate community sentiment. If the bar fills past 50% on their chosen side, display a "Winning Pick" message to the user, which they can share on their feed with their prediction. The user should be able to switch their vote only before the animation finishes. Place the prediction card on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
